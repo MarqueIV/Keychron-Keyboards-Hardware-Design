@@ -8,17 +8,17 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Type | Category |
 |---|---|---|
-| M1 | Wireless Ergonomic | Office |
-| M2 | Wireless Ultralight | Productivity |
-| M2 Mini | Wireless Ultralight Compact | Productivity |
-| M3 | Wireless Ergonomic | Office |
-| M3 Mini | Wireless Ergonomic Compact | Office |
-| M4 | Wireless | Productivity |
-| M5 | Wireless | Productivity |
-| M6 | Wireless | Productivity |
-| M7 | Wireless | Productivity |
-| G1 | Wireless Gaming | Gaming |
-| G2 | Wireless Gaming | Gaming |
+| [M1](./M1/README.md) | Wireless Ergonomic | Work / Gaming |
+| [M2](./M2/README.md) | Wireless Ultralight | Work / Gaming |
+| [M2 Mini](./M2%20Mini/README.md) | Wireless Ultralight Compact | Work / Gaming |
+| [M3](./M3/README.md) | Wireless Ergonomic | Work / Gaming |
+| [M3 Mini](./M3%20Mini/README.md) | Wireless Ergonomic Compact | Work / Gaming |
+| [M4](./M4/README.md) | Wireless Ultralight Fingertip | Gaming |
+| [M5](./M5/README.md) | Wireless Vertical Ergonomic | Productivity / Gaming |
+| [M6](./M6/README.md) | Wireless Productivity | Productivity |
+| [M7](./M7/README.md) | Wireless Ergonomic | Work / Gaming |
+| [G1](./G1/README.md) | Wireless Gaming | Gaming |
+| [G2](./G2/README.md) | Wireless Gaming | Gaming |
 
 ## Download Files
 
@@ -37,17 +37,17 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ```
 mice/
-├── m1/
-├── m2/
-├── m2-mini/
-├── m3/
-├── m3-mini/
-├── m4/
-├── m5/
-├── m6/
-├── m7/
-├── g1/
-├── g2/
+├── M1/
+├── M2/
+├── M2 Mini/
+├── M3/
+├── M3 Mini/
+├── M4/
+├── M5/
+├── M6/
+├── M7/
+├── G1/
+├── G2/
 └── readme.md
 ```
 
@@ -55,7 +55,7 @@ mice/
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../LICENSE) file for full terms. 
+See the [LICENSE](../LICENSE) file for full terms.
 
 ## Links
 
