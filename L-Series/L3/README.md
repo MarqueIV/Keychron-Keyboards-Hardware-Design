@@ -1,51 +1,46 @@
-# Lemokey L3
+# Lemokey L3 — Hardware Design Files
 
-> **Product page:** [Lemokey L3 QMK/VIA Wireless Custom Mechanical Keyboard](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
+> 80% TKL layout wireless custom gaming mechanical keyboard with full CNC aluminum body and rotary knob.
 
-An 80% layout wireless custom gaming mechanical keyboard with full metal body.
-
-## Overview
-
-The Lemokey L3 is an 80% (TKL) layout gasket-mounted aluminum keyboard built for gaming, featuring 2.4 GHz wireless with 1000 Hz polling rate, Bluetooth 5.1, and USB-C wired connectivity. Equipped with a double-gasket design, hot-swappable PCB, and screw-in stabilizers.
+**Product page:** [Lemokey L3](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
 ## Specifications
 
-- **Layout:** 80% TKL
-- **Mount:** Double-gasket mount
-- **Case:** CNC-machined aluminum
-- **Connectivity:** 2.4 GHz (1000 Hz polling) / Bluetooth 5.1 / USB-C wired
-- **Hot-swap:** Yes (supports 5-pin switches)
-- **Firmware:** QMK / VIA supported
-- **Switches:** Gateron Jupiter (fully assembled version)
-- **Keycaps:** Double-shot Cherry PBT
-- **Backlight:** South-facing RGB LED
-- **Stabilizers:** PCB-mounted screw-in
+| Spec | Detail |
+|---|---|
+| Layout | 80% TKL |
+| Size | 87-key |
+| Mount | Double-gasket |
+| Case Material | CNC-machined aluminum |
+| Knob | Yes |
+| Connectivity | Bluetooth 5.1 / 2.4 GHz / USB-C |
+| Polling Rate | 1000 Hz (2.4 GHz) |
+| Hot-swap | Yes |
+| Firmware | QMK / VIA |
 
-## Included CAD Files
+## Included Files
 
-| File | Description | Format |
-|------|-------------|--------|
-| `L3-Enclosure.step` | Full enclosure model (top case, bottom case, weight) | STEP |
-| `L3-Switch-Plate.dxf` | Switch plate cutout drawing | DXF |
-| `L3-Assembly.step` | Complete assembly with all components | STEP |
-| `L3-Stabilizer-Specs.pdf` | Stabilizer dimensions and layout reference | PDF |
+| File | Description |
+|---|---|
+| `L3-Top-Case.stp` | Top case enclosure |
+| `L3-Bottom-Case.stp` | Bottom case enclosure |
+| `L3-Knob.stp` | Rotary encoder knob |
+| `L3-US-Full-Model-20230925.stp` | Complete assembled model |
+| `L3-US-Plate.dxf` | Switch plate cutout drawing |
+| `L3-Plate-Model.pdf` | Switch plate reference (PDF) |
+| `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
+| `Stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
-## Compatible Software
+## Opening the Files
 
-### Free / Open-Source
-- [FreeCAD](https://www.freecadweb.org/) — STEP and DXF viewing/editing
-- [LibreCAD](https://librecad.org/) — 2D DXF editing
-
-### Commercial
-- Autodesk Fusion 360
-- AutoCAD
-- SolidWorks
-- Rhino
-
-## Usage Terms
-
-These hardware design files are provided for **personal, educational, and non-commercial use only**. Commercial use, reproduction, or distribution of these files or derivative works is prohibited without explicit written permission from Keychron.
+| Format | Free Software | Commercial Software |
+|---|---|---|
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | — |
 
 ## License
 
-© Keychron. All rights reserved.
+This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
+
+See the [LICENSE](../../LICENSE) for full terms.

@@ -28,13 +28,12 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | **Encoder / Knob Specifications** | Rotary encoder housing and knob (knob models only) | STEP |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
-| **KSA Keycap** | KSA-profile keycap 3D models | STEP |
 
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
-| `.step` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
+| `.stp` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
 | `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 

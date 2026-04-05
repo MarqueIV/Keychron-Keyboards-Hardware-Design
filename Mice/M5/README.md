@@ -23,9 +23,7 @@
 
 | File | Description |
 |---|---|
-| `shell-body` | 3D CAD model of the upper and lower mouse shell |
-| `side-buttons` | Side-button and thumb-rest geometry references |
-| `full-model` | Complete assembled mouse model |
+| `M5-20240130.stp` | Complete 3D model containing shell, buttons, and all components |
 
 ## Opening the Files
 

@@ -1,6 +1,6 @@
 # Keychron Hardware Design
 
-[![Models Uploaded](https://img.shields.io/badge/models%20uploaded-89-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Models Uploaded](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Keychron/Keychron-Keyboards-Hardware-Design/main/.github/badges/model-count.json)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 [![Repo](https://img.shields.io/badge/repo-source--available-4c1)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 [![Docs](https://img.shields.io/badge/docs-ready-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tree/main/docs)
 
@@ -51,16 +51,16 @@ If you're new, begin with one of these paths:
 |---|---|---|---|
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
-| **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE | Case, Plate, Full Model, Stabilizer |
+| **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE | Plate, Full Model |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K1 Max–K17 Max (11 models) | Case, Plate, Full Model, Stabilizer |
-| **K HE Series** | Hall Effect | K2 HE–K10 HE | Case, Plate, Full Model, Stabilizer, Keycap |
+| **K HE Series** | Hall Effect | K2 HE–K10 HE | Case, Plate, Full Model, Stabilizer, Keycap (K2 HE; other models pending) |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**89 models. 500+ design files. Source-available. No commercial use.**
+**83 device models. 640+ design files. Source-available. No commercial use.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure

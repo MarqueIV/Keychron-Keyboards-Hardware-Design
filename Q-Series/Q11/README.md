@@ -19,19 +19,21 @@
 
 | File | Description |
 |---|---|
-| `top-case-and-bottom-case` | 3D CAD model of the top and bottom enclosure |
-| `plate` | Switch plate with ANSI cutout dimensions |
-| `encoder-knob` | Rotary encoder housing and knob specifications, where applicable |
-| `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
-| `stabilizer` | Stabilizer housing and wire specifications |
+| `Q11-Top-Case-left.stp` | Top case — left half |
+| `Q11-Top-Case-right.stp` | Top case — right half |
+| `Q11-Bottom-Case-left.stp` | Bottom case — left half |
+| `Q11-Bottom-Case-right.stp` | Bottom case — right half |
+| `Q11-Knob.stp` | Rotary encoder knob |
+| `Q11-UK-Full-Model-20230302.stp` | Complete assembled model (UK/ISO layout) |
+| `Q11-OSA-Keycap-20221212.stp` | OSA-profile keycap set |
+| `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
+| `Stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
-| `.step` | FreeCAD, Onshape | Fusion 360, SolidWorks |
-| `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
-| `.pdf` | Any PDF viewer | — |
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
 
 ## License
 

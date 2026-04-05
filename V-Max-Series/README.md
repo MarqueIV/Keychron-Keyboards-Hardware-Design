@@ -32,7 +32,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
-| `.step` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
+| `.stp` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
 | `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 

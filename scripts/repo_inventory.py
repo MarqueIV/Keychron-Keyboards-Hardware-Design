@@ -135,22 +135,39 @@ def validate_readme(inventory: dict[str, object], readme_path: Path) -> list[str
     text = readme_path.read_text()
     errors = []
 
+    # Count device models (exclude Keycap Profiles which are documentation-only)
+    device_models = sum(
+        entry["model_count"]
+        for entry in inventory["series"]
+        if entry["series"] != "Keycap Profiles"
+    )
+
+    # Check badge -- either static URL or dynamic endpoint
     badge_match = re.search(r"models%20uploaded-(\d+)-", text)
+    badge_json_path = REPO_ROOT / ".github" / "badges" / "model-count.json"
     if badge_match:
         badge_count = int(badge_match.group(1))
-        if badge_count != inventory["total_models"]:
+        if badge_count != device_models:
             errors.append(
-                f"Badge count is {badge_count}, expected {inventory['total_models']}."
+                f"Badge count is {badge_count}, expected {device_models}."
+            )
+    elif badge_json_path.exists():
+        badge_data = json.loads(badge_json_path.read_text())
+        badge_count = int(badge_data.get("message", "0"))
+        if badge_count != device_models:
+            errors.append(
+                f"Badge JSON count is {badge_count}, expected {device_models}."
             )
     else:
-        errors.append("Could not find the model badge count in README.")
+        errors.append("Could not find model badge count in README or badge JSON.")
 
-    total_match = re.search(r"\*\*(\d+)\s+models\.", text)
+    # Check bold model count line -- supports "N models" or "N device models"
+    total_match = re.search(r"\*\*(\d+)\s+(?:device\s+)?models\.", text)
     if total_match:
         stated_total = int(total_match.group(1))
-        if stated_total != inventory["total_models"]:
+        if stated_total != device_models:
             errors.append(
-                f"README total says {stated_total} models, expected {inventory['total_models']}."
+                f"README total says {stated_total} models, expected {device_models}."
             )
     else:
         errors.append("Could not find the bold total model count line in README.")

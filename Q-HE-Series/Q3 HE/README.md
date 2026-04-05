@@ -33,7 +33,7 @@
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
-| `.step` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
 | `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 

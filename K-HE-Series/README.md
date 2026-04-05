@@ -1,6 +1,6 @@
-# L Series — Hardware Design Files
+# K HE Series — Hardware Design Files
 
-> Lemokey L-series aluminum wireless custom mechanical keyboards with QMK/VIA support, double-gasket construction, and gaming-focused performance.
+> Hall Effect magnetic switch variants of the K-series. Adjustable actuation, rapid trigger, and wireless connectivity for gaming and enthusiast use.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 
@@ -8,33 +8,39 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Versions |
 |---|---|---|---|
-| [L1](./L1/README.md) | 75% | Compact | Knob |
-| [L3](./L3/README.md) | TKL | 80% | Knob |
+| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition |
+| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition |
+| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition |
+| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition |
+| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition |
 
 ## Download Files
 
 | File | Description | Format |
 |---|---|---|
 | **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
-| **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
+| **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DWG / PDF |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
-| **Knob** | Rotary encoder knob 3D model | STEP |
+| **Keycap** | Keycap 3D models specific to this series | STEP |
 
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
-| `.step` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
-| `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
+| `.stp` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 
 ## Directory Structure
 
 ```
-L-Series/
-├── L1/
-├── L3/
+K-HE-Series/
+├── K2 HE/
+├── K4 HE/
+├── K6 HE/
+├── K8 HE/
+├── K10 HE/
 └── README.md
 ```
 

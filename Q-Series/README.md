@@ -19,7 +19,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [Q8](./Q8/README.md) | Alice | 69-key |
 | [Q9](./Q9/README.md) | 40% | 52-key |
 | [Q10](./Q10/README.md) | 75% Alice | 82-key |
-| [Q11](./Q11/README.md) | 75% Alice | 82-key |
+| [Q11](./Q11/README.md) | 75% Split | 84-key |
 | [Q12](./Q12/README.md) | 96% | 100-key |
 | [Q60](./Q60/README.md) | 60% | 64-key |
 | [Q65](./Q65/README.md) | 65% | 68-key |

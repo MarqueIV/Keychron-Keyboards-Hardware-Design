@@ -45,7 +45,7 @@ For community contributions, use Title-Case with hyphens, matching the model pre
 
 ### Formats
 - **3D models:** STEP (.stp) preferred. IGES (.iges) accepted.
-- **2D drawings:** DXF (.dxf) preferred. Include a PDF export for reference.
+- **2D drawings:** DXF (.dxf) or DWG (.dwg). Include a PDF export for reference.
 - **Units:** Millimeters (mm). Always.
 - **Origin:** Center of the PCB footprint, top surface.
 

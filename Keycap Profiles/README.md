@@ -17,7 +17,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Note
 
-These directories currently contain profile descriptions only. Keycap CAD geometry files (STEP) are included within individual keyboard model directories where applicable (e.g., `Q-Series/Q1/Q1-OSA-Keycap.stp`).
+These directories currently contain profile descriptions only. Keycap CAD geometry files (STEP) are included within individual keyboard model directories where applicable (e.g., `Q-Series/Q11/Q11-OSA-Keycap-20221212.stp`).
 
 ## License
 

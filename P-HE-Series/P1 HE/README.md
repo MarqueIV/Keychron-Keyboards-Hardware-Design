@@ -23,11 +23,13 @@
 
 | File | Description |
 |---|---|
-| `top-case-and-bottom-case` | 3D CAD model of the top and bottom enclosure |
-| `plate` | Switch plate with ANSI cutout dimensions |
-| `encoder-knob` | Rotary encoder housing and knob specifications |
-| `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
-| `stabilizer` | Stabilizer housing and wire specifications |
+| `Lemokey-P1-HE-Top-Case-*.stp` | Top case enclosure |
+| `Lemokey-P1-HE-Bottom-Case-*.stp` | Bottom case enclosure |
+| `Lemokey-P1-HE-US-Plate-*.dxf / .pdf` | Switch plate with ANSI cutout dimensions |
+| `Lemokey-P1-HE-Knob-*.stp` | Rotary encoder knob |
+| `Lemokey-P1-HE-US-Full-Model-*.stp` | Complete assembled model (ANSI) |
+| `Lemokey-P1-HE-Stabilizers-*.stp` | Stabilizer models |
+| `Lemokey-P1-HE-Cherry-*-Keycaps-*.stp.zip` | Cherry-profile keycap sets (shine-through and non-shine-through) |
 
 ## Opening the Files
 
