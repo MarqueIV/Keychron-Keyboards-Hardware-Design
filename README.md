@@ -52,6 +52,7 @@ If you're new, begin with one of these paths:
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K1 Max–K17 Max (11 models) | Case, Plate, Full Model, Stabilizer |
 | **K HE Series** | Hall Effect | K2 HE–K10 HE | Case, Plate, Full Model, Stabilizer, Keycap |
+| **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (10 models) | Shell, Full Model |
@@ -65,6 +66,7 @@ If you're new, begin with one of these paths:
 keyboards/
   Q-Series/Q1/          — Case, plate, encoder, stabilizer, full model
   Q-Pro-Series/Q1 Pro/  — Same structure
+  L-Series/L1/          — Case, plate, knob, stabilizer, full model
   ...
 Mice/
   M1/                   — Shell, full model
