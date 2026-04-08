@@ -25,6 +25,17 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 
 STEP or other keycap CAD geometry files may also appear here or within individual keyboard model directories where applicable (for example, `Q-Series/Q11/Q11-OSA-Keycap-20221212.stp`).
 
+## Explore Keycap Sets
+
+If you want to see current Keychron keycap sets by profile, these collection pages may be a helpful starting point:
+
+- [Cherry Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=Cherry+Profile)
+- [KSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=KSA+Profile)
+- [LSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=LSA+Profile+%28Low+Profile%29)
+- [MDA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=MDA+Profile)
+- [OEM Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=OEM+Profile)
+- [OSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=OSA+Profile)
+
 ## License
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**

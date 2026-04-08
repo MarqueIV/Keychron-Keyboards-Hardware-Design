@@ -89,3 +89,9 @@ This profile folder may also include keycap 3D reference files and layout refere
 The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
 
 ![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)
+
+### Explore LSA Keycaps
+
+If you want to browse current LSA profile keycap sets from Keychron, this collection page may be useful:
+
+- [LSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=LSA+Profile+%28Low+Profile%29)
