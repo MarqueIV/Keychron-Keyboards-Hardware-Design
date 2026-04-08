@@ -82,3 +82,11 @@ Typical characteristics:
 ### Summary
 
 MDA is a balanced, middle-ground keycap profile that combines the spherical comfort of SA with a practical medium height. Choose MDA when you want sculpted ergonomics without the towering height of SA, a quieter sound signature than most sculpted profiles, and a spherical dish that naturally cradles your fingertips. The main trade-offs are limited layout coverage beyond ANSI, a smaller aftermarket selection compared to Cherry, and gentler sculpting that may feel too subtle for users accustomed to aggressively contoured profiles. For typists seeking a profile that does everything reasonably well without pushing to any extreme, MDA is a strong and increasingly available choice.
+
+### 3D File Reference
+
+This profile folder may also include keycap 3D reference files and layout reference materials related to MDA profile keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)

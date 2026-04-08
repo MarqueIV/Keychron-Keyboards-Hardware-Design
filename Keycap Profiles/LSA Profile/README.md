@@ -81,3 +81,11 @@ Typical characteristics:
 ### Summary
 
 LSA is Keychron's purpose-built profile for low-profile mechanical keyboards, combining spherical comfort with sculpted row angles at an ultra-compact 4.4 mm height. Choose LSA when wrist ergonomics and portability are your top priorities — no other sculpted profile sits this close to the desk. The trade-offs are a smaller ecosystem, thinner acoustics, and compatibility limited to Keychron's low-profile boards. For users who have committed to the low-profile form factor, LSA is the most refined keycap option available, delivering sculpted typing guidance and quality materials in a package that standard-height profiles cannot replicate.
+
+### 3D File Reference
+
+This profile folder may also include keycap 3D reference files and layout reference materials related to LSA profile keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)

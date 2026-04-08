@@ -78,3 +78,11 @@ Typical characteristics:
 ### Summary
 
 KSA is Keychron's answer to a long-standing trade-off in the keycap world: the SA profile looks and sounds incredible but can be tiring to type on. KSA keeps the tall, sculpted, retro aesthetic and the deep sound signature while flattening the dish and rounding the edges for better daily comfort. Choose KSA when you want premium double-shot PBT construction, a distinctive visual presence, satisfying acoustics, and a high-profile typing experience you can sustain across long sessions. Factor in a wrist rest and a short adjustment period, and KSA delivers one of the most rewarding keycap upgrades in Keychron's lineup.
+
+### 3D File Reference
+
+This profile folder may also include keycap 3D reference files and layout reference materials related to KSA profile keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)

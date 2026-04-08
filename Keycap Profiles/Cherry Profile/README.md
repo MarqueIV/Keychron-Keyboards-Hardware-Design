@@ -68,3 +68,11 @@ Typical characteristics:
 ### Summary
 
 Cherry profile is the enthusiast community's preferred sculpted keycap profile. It takes the familiar OEM layout and improves on it with a lower height, thicker construction, better acoustics, and higher-quality manufacturing. Choose Cherry profile when you want a proven, ergonomic design with excellent sound characteristics and access to a vast selection of premium colorways. The main trade-off is cost — quality Cherry profile sets command a premium — but for most users who invest in a custom or semi-custom mechanical keyboard, the upgrade from OEM to Cherry is one of the most immediately noticeable improvements.
+
+### 3D File Reference
+
+This profile folder may also include keycap 3D reference files and layout reference materials related to Cherry profile keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)

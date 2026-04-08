@@ -68,3 +68,11 @@ Typical characteristics:
 ### Summary
 
 OEM profile is the most common keycap profile in the mechanical keyboard world. It offers a comfortable, sculpted typing experience that works well for gaming, office work, and general use. Choose OEM when you want broad compatibility, easy replacement options, and a familiar feel with no adjustment period. Consider alternatives like Cherry (for a slightly lower profile), DSA/XDA (for uniform height), or SA (for a retro aesthetic) once you have a clear preference for something OEM does not provide.
+
+### 3D File Reference
+
+This profile folder may also include keycap 3D reference files and layout reference materials related to OEM profile keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)

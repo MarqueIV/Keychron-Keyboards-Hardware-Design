@@ -77,3 +77,11 @@ Typical characteristics:
 ### Summary
 
 OSA is a refined, elevated take on the OEM profile — the same familiar sculpted contour, built to a higher standard with thick double-shot PBT and smoother curves. Choose OSA when you want an immediate upgrade over stock OEM keycaps without changing the fundamental feel of your typing experience. It delivers better sound, better durability, and a more polished look while keeping the cylindrical, sculpted design that most typists already know. The trade-offs are a limited ecosystem compared to Cherry profile and ANSI-only layout support, but for users within Keychron's keyboard lineup — or anyone looking for a thocky, well-built keycap in a proven contour — OSA is one of the most practical and satisfying profile choices available.
+
+### 3D File Reference
+
+This profile folder may also include keycap 3D reference files and layout reference materials related to OSA profile keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../../docs/assets/keycap%20set%203d%20file%20layout.png)
