@@ -10,6 +10,16 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 |---|---|---|---|---|
 | [P1 HE](./P1%20HE/README.md) | 75% | 81-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/p1_he) |
 
+## Current Product Lineup
+
+As of April 8, 2026, the Lemokey P HE collection includes the following P HE products:
+
+- [P1 HE](https://www.keychron.com/products/lemokey-p1-he-wireless-magnetic-switch-custom-gaming-keyboard)
+- [P2 HE](https://www.keychron.com/products/lemokey-p2-he-wireless-magnetic-switch-custom-gaming-keyboard)
+- [P3 HE](https://www.keychron.com/products/lemokey-p3-he-wireless-magnetic-switch-custom-gaming-keyboard)
+
+If there is a P HE series model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
