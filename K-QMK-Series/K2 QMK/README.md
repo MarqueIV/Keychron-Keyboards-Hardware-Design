@@ -2,6 +2,10 @@
 
 > 75% K-series QMK hardware files including case, plate, keycap, and stabilizer assets.
 
+**Product page:** [Keychron K2 QMK Wireless Mechanical Keyboard Version 3](https://www.keychron.com/products/keychron-k2-qmk-wireless-mechanical-keyboard-version-3)
+
+![Keychron K2 QMK](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K2-Version-3-QMK-2.jpg?v=1739757875)
+
 ## Included Files
 
 | File | Description |

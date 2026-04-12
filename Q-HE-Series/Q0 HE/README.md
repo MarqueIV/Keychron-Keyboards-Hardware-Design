@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q0 HE](https://www.keychron.com/products/keychron-q0-he-qmk-wireless-custom-number-pad)
 
+![Keychron Q0 HE](https://www.keychron.com/cdn/shop/files/Keychron_Q0_HE_QMK_Wireless_Custom_Number_Pad-1.jpg?v=1768544284&width=3200)
+
 ## Specifications
 
 | Spec | Detail |
