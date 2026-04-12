@@ -2,6 +2,10 @@
 
 > Documentation entry point for the C2 Pro 8K model directory in the C Pro 8K series.
 
+**Product page:** [Keychron C2 Pro 8K](https://www.keychron.com/collections/keychron-c-series-keyboard-s1/products/keychron-c2-pro-8k-qmk-via-wired-mechanical-keyboard)
+
+![C2 Pro 8K](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-C2-Pro-8K-QMK-Wired-Mechanical-Keyboard-1.jpg?v=1750219270)
+
 ## Current Status
 
 This model directory is present in the repository, but design files have not been added yet.
