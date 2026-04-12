@@ -28,17 +28,19 @@ Thank you for contributing to Keychron's source-available hardware project! Whet
 
 ### Naming Convention
 
-Official files follow the pattern:
+Recommended naming for new and updated files:
 ```
 {Model}-{Variant}-{Component}-{Date}.{ext}
 ```
-Examples from the repo:
+Many official files in this repository already follow this pattern, for example:
 - `Q1-Top-Case.stp`
 - `K8-Max-US-Aluminum-Plate-20240924.dwg`
 - `V2-Max-US-Full-Model-20240812.stp`
 - `Stabilizer-6.25u.stp`
 
-For community contributions, use Title-Case with hyphens, matching the model prefix:
+Some existing official files use older naming styles, including underscores, lowercase prefixes, or `8k` directory casing. Those legacy names may remain in place for historical compatibility, but new contributions should not copy those exceptions.
+
+For community contributions and new official uploads, use Title-Case with hyphens, matching the model prefix:
 - `Q1-ISO-Plate.dxf`
 - `K8-Max-POM-Plate.stp`
 - `Q5-FR4-Plate.dxf`
@@ -53,7 +55,7 @@ For community contributions, use Title-Case with hyphens, matching the model pre
 Before submitting:
 - [ ] File opens without errors in FreeCAD or Fusion 360
 - [ ] Dimensions are in millimeters
-- [ ] File is named following the convention above
+- [ ] New or renamed files use the recommended hyphenated Title-Case convention above
 - [ ] Model is watertight (for 3D-printable components)
 - [ ] No proprietary software lock-in (no .f3d-only submissions)
 
