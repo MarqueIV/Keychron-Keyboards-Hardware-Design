@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron Q6 HE](https://www.keychron.com/products/keychron-q6-he-qmk-wireless-custom-keyboard)
 
-![Q6 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-HE-Wireless-QMK-Custom-Magnetic-Switch-Keyboard-White.jpg)
+![Q6 HE](https://www.keychron.com/cdn/shop/files/Q6-HE-Iconic-Features.jpg?crop=center&height=1200&v=1755054298&width=1200)
 
 ## Specifications
 
